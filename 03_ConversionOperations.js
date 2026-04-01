@@ -26,3 +26,17 @@ console.log(Boolean(boolean))
     "arpita" -> true
 */
 
+/*
+    OPERATIONS
+*/     
+
+console.log(typeof(3 + "ergh"))
+
+console.log(3 + 4 + "7" )
+console.log("3" ^ "4n")  //what is this?
+console.log(1 ^ 2)
+
+console.log(-"")
+console.log(true)
+
+
